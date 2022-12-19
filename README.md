@@ -1,6 +1,7 @@
-# Sample Hardhat Project
+# ERC20 Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project creates and deploy an ERC20 token standard using the openzepllen library. 
+The conract was deployed across multiple blockchain.
 
 Try running some of the following tasks:
 
