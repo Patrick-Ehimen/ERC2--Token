@@ -2,6 +2,11 @@
 
 This is an ERC20 token that has been created using the OpenZeppelin library and deployed across three EVM blockchains: Ethereum, Polygon, and Binance Smart Chain.
 
+# ERC20 Project
+
+This project creates and deploy an ERC20 token standard using the openzepllen library.
+The conract was deployed across multiple blockchain.
+
 # Prerequisites
 
 To use this token, you will need the following:
