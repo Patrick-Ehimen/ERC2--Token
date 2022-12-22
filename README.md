@@ -1,13 +1,21 @@
-# Sample Hardhat Project
+# My ERC20 Token
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This is an ERC20 token that has been created using the OpenZeppelin library and deployed across three EVM blockchains: Ethereum, Polygon, and Binance Smart Chain.
 
-Try running some of the following tasks:
+# Prerequisites
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+To use this token, you will need the following:
+
+1. A wallet that supports ERC20 tokens, such as MetaMask or Trust Wallet
+2. Access to one or more of the following networks: Ethereum, Polygon, or Binance Smart Chain
+
+---
+
+To install this token to your wallet, follow these steps:
+
+1. Add the token to your wallet using the contract address for the desired network:
+   a.Ethereum:
+   b.Polygon: 0x2fAB15bD715b1B8171330c62834A2d84A843FD2B
+   c.Binance Smart-Chain: 0x598B3e45390d4b723925a5a1cF7A7fEa36ee8281
+
+2. Approve the token to be used with your wallet.
