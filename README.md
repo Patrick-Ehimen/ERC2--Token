@@ -19,7 +19,9 @@ To use this token, you will need the following:
 To install this token to your wallet, follow these steps:
 
 1. Add the token to your wallet using the contract address for the desired network:
-   ```a.Ethereum: 0xa7CfE9A525D05f4860baFE0dEa94083370c375c1
+
+   ```
+   a.Ethereum: 0xa7CfE9A525D05f4860baFE0dEa94083370c375c1
    b.Polygon: 0x2fAB15bD715b1B8171330c62834A2d84A843FD2B
    c.Binance Smart-Chain: 0x598B3e45390d4b723925a5a1cF7A7fEa36ee8281
    ```
